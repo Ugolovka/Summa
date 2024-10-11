@@ -5,7 +5,7 @@ b = 0
 if a>0:
     for i in range (1,a+1)
     i+=b
-    else
+else
     for i in range (0,2)
     i+=b
     k=str(i)
