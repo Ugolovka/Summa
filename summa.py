@@ -2,7 +2,7 @@ input_data = open('input.txt','r')
 data = input_data.read() 
 a = int(data)
 b = 0
-if a>0:
+if a>=0:
     for i in range (1,a+1)
     i+=b
 else
